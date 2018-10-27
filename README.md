@@ -1,7 +1,7 @@
 # macfilter_app_for_BSNL_Siemens_Modem
 I wrote a piece of code that automates the process of Filtering devices connected to your network .
 
-The script provides three options
+The script provides three options.
 
 1.Enable/Disable MAC Filter
 2.Add a MAC Address to Block List
